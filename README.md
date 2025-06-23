@@ -22,10 +22,10 @@
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/3Dos-BOT.git
+   git clone https://github.com/bilalrai2/Pengu-Clash.git
    ```
    ```bash
-   cd 3Dos-BOT
+   cd Pengu-Clash
    ```
 
 2. **Install Requirements:**
@@ -35,7 +35,7 @@
 
 ## Configuration
 
-- **query.txt:** You will find the file `accounts.json` inside the project directory. Make sure `query.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+- **query.txt:** You will find the file `query.txt` inside the project directory. Make sure `query.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```
   Add Pengu Clash Bot Query Id
   ```
